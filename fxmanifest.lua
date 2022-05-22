@@ -24,4 +24,4 @@ exports {
     'ProgressWithStartEvent',
     'ProgressWithTickEvent',
     'ProgressWithStartAndTick'
-} 
+}
